@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "qa-with-docs"
+version = "0.1.0"
+description = ""
+authors = ["Ambuj Pawar <pawar.ambuj@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^0.27.2"
+langchain = "^0.0.129"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
