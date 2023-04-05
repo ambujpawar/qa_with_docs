@@ -4,7 +4,7 @@ Do a QA session with the docs provided as an input. Use langchain and OpenAI gpt
 The data that we want to query is present in the data folder. The data has been processed and stored in as an index file and the pickle file. After the user inputs the query, the similar sentences are searched in the database using FAISS algorithm. The query and the similar sentences are then sent to the GPT-3.5 in the form of:
 
 ```
-"Hey Assistant, I have this query {query}. Find me the answer to my query given the context {similar sentences}"
+"Hey Assistant, I have this query {query}. Find me the answer given the context {similar sentences}"
 ```
 
 GPT-3.5 constructs sentences based on this and gives us answer in the Natural Language.
