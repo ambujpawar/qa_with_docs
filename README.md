@@ -12,3 +12,8 @@ GPT-3.5 constructs sentences based on this and gives us answer in the Natural La
 
 https://user-images.githubusercontent.com/19887541/230017774-51fa34c7-a569-47f0-a03f-7b6fffa4172d.mov
 
+
+Using Gradio frontend
+
+https://user-images.githubusercontent.com/19887541/230767103-defb3d22-9430-46c5-8102-8fdc087d18ab.mov
+
